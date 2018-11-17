@@ -4,7 +4,7 @@
 
 <body>
 
-<h1>Story about two virusbusters</h1>
+<h1>Two virusbusters</h1>
 
 <h4>
 <ul>

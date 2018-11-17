@@ -1,13 +1,10 @@
 # Two-programmers
 <!DOCTYPE html>
 <html>
-<head>
-<title>Two Programmers</title>
-</head>
+
 <body>
 
 <h1>Story about two virusbusters</h1>
-
 
 <h4>
 <ul>

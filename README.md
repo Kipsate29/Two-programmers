@@ -33,7 +33,7 @@
 <p> It was a normal day but everything was dark. The monsterous spidernetwork had increased his size and damage. But there were only two little lights in that darkness. One big <strong>M</strong> and one big <strong>H</strong>. Those lights were Moto and Hito, two fighting programmers in order to save the network and clease it from viruses. 115 MegaBytes later it was done. The only thing that was left of the virus was a little spider, black with deepblue eyes.</p>
 
 <h2>After</h2>
-<p>The spider looked up and tried to get away. Moto and Hito kinda felt sorry fot hin and deicided not to kill it.It got locked away in a huge safe. But the safe was decorated so it would feel like home for the spider. Although there were virussuppressors in every corner, the spider was gratefull and thanked Moto and Hito for leading him down the right way. Moto and Hito made 4 more spiders for the little spider, so he wouldn't be alone.</p>
+<p>The spider looked up and tried to get away. Moto and Hito kinda felt sorry for it and deicided not to kill it. It was locked away in a huge safe. But the safe was decorated so it would feel like home for the spider. Although there were virussuppressors in every corner, the spider was gratefull and thanked Moto and Hito for leading him down the right way. Moto and Hito made 4 more spiders for the little spider, so he wouldn't be alone.</p>
 
 <p><I>The End</I></p>
 

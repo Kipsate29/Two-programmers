@@ -1,5 +1,11 @@
 body{
 font-family: sans sherif;
+  text-align: center;
+}
+h1 {
+padding: 10%;
+backgroundcolor: #00ffff;
+text-align: center;
 }
 
 p{

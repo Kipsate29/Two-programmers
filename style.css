@@ -1,5 +1,5 @@
 body{
-font-family: sans sherif;
+font-family: courier new body copy, sans sherif;
   text-align: center;
 }
 h1 {
@@ -12,9 +12,10 @@ text-align: center;
 }
 
 p{
+  font-style: avenue;
 font-weight: bold;
 }
 
 a {
-font-family: courier new body copy, sans sherif;
+font-style: avenue, sans sherif;
 }

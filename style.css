@@ -1,17 +1,24 @@
-body{
-font-family: courier new body copy, sans sherif;
+body {
   text-align: center;
 }
+
 h1 {
 padding: 10%;
 }
 
-h1{
+h1 {
+  letter-spacing: 0.2em;
 background-color: #00ffff;
 text-align: center;
+  font-style: courier;
 }
 
-p{
+h2 {
+color: #000000;
+}
+
+p {
+  color: #000000;
   font-style: avenue;
 font-weight: bold;
 }

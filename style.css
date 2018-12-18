@@ -1,6 +1,3 @@
-body {
-  text-align: center;
-}
 
 h1 {
 padding: 10%;
@@ -9,7 +6,6 @@ padding: 10%;
 h1 {
   letter-spacing: 0.2em;
 background-color: #00ffff;
-text-align: center;
   font-style: courier;
 }
 
